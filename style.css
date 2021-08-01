@@ -1,4 +1,6 @@
-
+a {
+  color: white;
+}
 #navbarMenuToggler, #navbarMenu .nav-link {
   color: #333;
 }
@@ -17,6 +19,10 @@
 #hero h2 {
   padding-top: 130px;
   color: white;
+}
+
+.hero-text {
+  padding-top: 100px;
 }
 
 #navbarMenu {
