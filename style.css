@@ -1,3 +1,42 @@
-h1 {
-  color: green;
+
+#navbarMenuToggler, #navbarMenu .nav-link {
+  color: #333;
 }
+#navbarMenu .nav-link {
+  padding: 12px 0;
+  font-weight: 300;
+}
+
+#hero {
+  background-image: url(./images/hero-img.JPG);
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+}
+
+#hero h2 {
+  padding-top: 130px;
+  color: white;
+}
+
+#navbarMenu {
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-top: 88px;
+}
+
+#navbar .nav-link div:hover {
+    border-bottom: 2px solid #fff;
+  }
+/*
+#navbarMenuToggler {
+  color: rgb(255, 90, 95);
+  transition: color 0.25s;
+  z-index: 1;
+}
+
+#navbarMenuToggler.collapsed {
+  color: #fff;
+}
+*/
