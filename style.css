@@ -22,7 +22,7 @@ a {
 }
 
 .hero-text {
-  padding-top: 100px;
+  padding-top: 150px;
 }
 
 #navbarMenu {
@@ -32,7 +32,7 @@ a {
   padding-top: 88px;
 }
 
-#navbar .nav-link div:hover {
+.nav-link:hover {
     border-bottom: 2px solid #fff;
   }
 /*
