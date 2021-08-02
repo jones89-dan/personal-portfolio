@@ -35,14 +35,3 @@ a {
 .nav-link:hover {
     border-bottom: 2px solid #fff;
   }
-/*
-#navbarMenuToggler {
-  color: rgb(255, 90, 95);
-  transition: color 0.25s;
-  z-index: 1;
-}
-
-#navbarMenuToggler.collapsed {
-  color: #fff;
-}
-*/
