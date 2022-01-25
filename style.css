@@ -1,0 +1,37 @@
+a {
+  color: white;
+}
+#navbarMenuToggler, #navbarMenu .nav-link {
+  color: #333;
+}
+#navbarMenu .nav-link {
+  padding: 12px 0;
+  font-weight: 300;
+}
+
+#hero {
+  background-image: url(./images/hero-img.JPG);
+  background-size: cover;
+  background-position: center;
+  height: 450px;
+}
+
+#hero h2 {
+  padding-top: 130px;
+  color: white;
+}
+
+.hero-text {
+  padding-top: 150px;
+}
+
+#navbarMenu {
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-top: 88px;
+}
+
+.nav-link:hover {
+    border-bottom: 2px solid #fff;
+  }
