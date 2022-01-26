@@ -10,10 +10,17 @@ a {
 }
 
 #hero {
-  background-image: url(./images/hero-img.JPG);
+  background-image: url(./images/Hero00.JPG);
   background-size: cover;
   background-position: center;
   height: 450px;
+}
+
+.glass {
+
+  background-color: rgba(255, 255, 255, .15);
+  backdrop-filter: blur(9px);
+  -webkit-backdrop-filter: blur(9px);
 }
 
 #hero h2 {
