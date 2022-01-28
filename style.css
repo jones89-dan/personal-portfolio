@@ -4,6 +4,11 @@ h1, h2, h3, a{
 a {
   color: white;
 }
+
+.custom-toggler.navbar-toggler {
+    border-color: #fff;
+}
+
 #navbarMenuToggler, #navbarMenu .nav-link {
   color: #333;
 }
