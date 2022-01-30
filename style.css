@@ -1,12 +1,19 @@
 h1, h2, h3, a{
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 }
+
 a {
   color: white;
 }
+
+.btn {
+  width: 85%;
+}
+
 #navbarMenuToggler, #navbarMenu .nav-link {
   color: #333;
 }
+
 #navbarMenu .nav-link {
   padding: 12px 0;
   font-weight: 300;
