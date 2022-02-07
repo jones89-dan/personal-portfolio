@@ -52,3 +52,11 @@ a {
 .nav-link:hover {
     border-bottom: 2px solid #fff;
   }
+
+ footer #footer {
+    background-image: url(./images/Hero00.jpg);
+    background-position: center center;
+    background-repeat: repeat;
+    background-size: cover;
+    height: 25px;
+}
