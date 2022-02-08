@@ -20,10 +20,10 @@ a {
 }
 
 #hero {
-  background-image: url(./images/Hero00.JPG);
+  background-image: url(./images/david-billings-Zmfz5jqgSiI-unsplash.JPG);
   background-size: cover;
   background-position: center;
-  height: 320px;
+  height: 500px;
 }
 
 .glass {
@@ -31,15 +31,18 @@ a {
   background-color: rgba(255, 255, 255, .15);
   backdrop-filter: blur(9px);
   -webkit-backdrop-filter: blur(9px);
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 900px;
 }
 
 #hero h2 {
-  padding-top: 150px;
+  padding-top: 50px;
   color: white;
 }
 
 .hero-text {
-  padding-top: 25px;
+  padding-top: 100px;
 }
 
 #navbarMenu {
@@ -58,5 +61,5 @@ a {
     background-position: center center;
     background-repeat: repeat;
     background-size: cover;
-    height: 25px;
+    height: 0px;
 }
