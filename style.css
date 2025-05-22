@@ -24,10 +24,15 @@ a {
   background-size: cover;
   background-position: center;
   height: 500px;
-
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: cover;
+}
+
+/* Disable fixed attachment on smaller screens */
+@media (max-width: 768px) {
+  #hero {
+    background-attachment: scroll;
+  }
 }
 
 .glass {
