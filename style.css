@@ -43,6 +43,7 @@ a {
   margin-right: auto;
   margin-left: auto;
   max-width: 900px;
+  border-radius: 25px;
 }
 
 #hero h2 {
