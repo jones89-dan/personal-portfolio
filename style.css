@@ -24,6 +24,10 @@ a {
   background-size: cover;
   background-position: center;
   height: 500px;
+
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .glass {
